@@ -3,6 +3,6 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("My name is Milk Drogan!\n");
+    printf("My name is Nezha!\n");
     printf("Hello, world!\n");
 }
